@@ -1,0 +1,11 @@
+Model Information:
+* title:	Dancing_Penguin
+* source:	https://sketchfab.com/3d-models/dancing-penguin-c04de9d2f1254c1ca11ebed962c052c8
+* author:	twilighthall83 (https://sketchfab.com/twilighthall83)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Dancing_Penguin" (https://sketchfab.com/3d-models/dancing-penguin-c04de9d2f1254c1ca11ebed962c052c8) by twilighthall83 (https://sketchfab.com/twilighthall83) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

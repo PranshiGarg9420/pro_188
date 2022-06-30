@@ -1,0 +1,11 @@
+Model Information:
+* title:	Red Panda (Non- Commercial)
+* source:	https://sketchfab.com/3d-models/red-panda-non-commercial-e0727241adde4fb0992df6afd9f7ebb8
+* author:	Nyilonelycompany (https://sketchfab.com/Nyilonelycompany)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Red Panda (Non- Commercial)" (https://sketchfab.com/3d-models/red-panda-non-commercial-e0727241adde4fb0992df6afd9f7ebb8) by Nyilonelycompany (https://sketchfab.com/Nyilonelycompany) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
